@@ -14,7 +14,7 @@ public class SpaceGame extends Game {
 	public SpriteBatch batch;
 	
 	public static final int WIDTH = 480;
-	public static final int HEIGHT = 720;
+	public static final int HEIGHT = 680;
 	
 	@Override
 	public void create () {
